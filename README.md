@@ -11,41 +11,27 @@ The system features a vibrating screen assembly that separates materials into di
 Each motor control module is:
 
 Designed to support motor voltage ranges between 5V and 24V.
-
 Equipped with its own low-power microcontroller (e.g., ESP32).
-
 Capable of robust communication with other modules and a central controller using protocols like CAN Bus or RS485.
-
 Easily replicable, enabling scalability and reconfigurability.
 
 Subsystems:
-
 Mechanical Sorting Assembly: Multi-stage sieving with vibratory or rotational motion.
-
 Rover Platform: Motorized chassis enabling mobility across test terrain.
-
 Motor Driver Hardware: Custom PCBs featuring H-bridge drivers, current sensing, and power regulation.
-
 Firmware Stack: Code for motor control, inter-device communication, and diagnostics.
-
 Communication Layer: A master-slave protocol with fault tolerance and plug-and-play compatibility.
 
 Key Features:
-
 Modular and scalable hardware
-
 Firmware with real-time control
-
 Reliable communication between modules
-
 Easy unit replacement or expansion
 
 Applications:
 
 Field particle analysis
-
 Modular automation systems
-
 Educational and research platforms
 
 
