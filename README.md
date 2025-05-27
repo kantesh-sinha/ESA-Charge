@@ -1,6 +1,7 @@
 # Modular Motor Control System – ISA/CHARGE Project
 
-Welcome to the official repository for the **Modular Motor Control System** developed under the **ISA/CHARGE project**. This system is designed for autonomous, scalable, and decentralized control of motors in applications such as particle-sorting rovers. Each unit is modular, low-power, and network-capable, allowing for flexible and robust motor management.
+Welcome to the official repository for the **Modular Motor Control System** developed under the **ISA/CHARGE project**.
+The goal of this project is to design and implement a modular, decentralized motor control system for use in a particle-sorting rover application. The system will control various motors involved in the operation of a multi-stage screen-based particle sorting mechanism, but the mechanical implementation is not within the scope of this work. This system is designed for autonomous, scalable, and decentralized control of motors in applications such as particle-sorting rovers. Each unit is modular, low-power, and network-capable, allowing for flexible and robust motor management.
 
 ---
 
